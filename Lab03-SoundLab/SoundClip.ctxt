@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=SoundClip
+comment1.params=c
+comment1.target=SoundClip(double[])
+comment10.params=factor
+comment10.target=void\ speedUp(double)
+comment2.params=
+comment2.target=SoundClip()
+comment3.params=
+comment3.target=void\ nullSoundclip()
+comment4.params=factor
+comment4.target=void\ adjustVolume(double)
+comment5.params=clip1\ clip2
+comment5.target=void\ mix(double[],\ double[])
+comment6.params=other
+comment6.target=void\ append(double[])
+comment7.params=seconds
+comment7.target=void\ fadeIn(double)
+comment8.params=seconds
+comment8.target=void\ fadeOut(double)
+comment9.params=
+comment9.target=void\ reverse()
+numComments=11
