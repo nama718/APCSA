@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Player
+comment1.params=pName\ pNum
+comment1.target=Player(java.lang.String,\ int)
+comment2.params=
+comment2.target=Player()
+comment3.params=pName\ pNum\ atB\ pHit
+comment3.target=Player(java.lang.String,\ int,\ int,\ int)
+comment4.params=
+comment4.target=double\ getBattingAverage()
+comment5.params=i
+comment5.target=java.lang.String\ getName(int)
+comment6.params=
+comment6.target=int\ getLength()
+comment7.params=i
+comment7.target=int\ getNumber(int)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=i
+comment9.target=java.lang.String\ getBattingAverageString(int)
+numComments=10
